@@ -1,6 +1,6 @@
 /**
  * File      : BangunDatarGenericTest.java	
- * Penulis   : Sulthan Firmansyah / 24060121140108
+ * Penulis   : Fernanda Galih Saputra / 24060121140176
  * Deskripsi : main class untuk generic bangun datar
  */
 
