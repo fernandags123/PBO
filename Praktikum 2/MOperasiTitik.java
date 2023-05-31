@@ -1,6 +1,6 @@
 /**
  * File      : MOperasiTitik.java		04/03/23
- * Penulis   : Sulthan Firmansyah
+ * Penulis   : Fernanda Galih Saputra
  * Deskripsi : Kelas yang berisi main dari OperasiTitik
  * 
  */
