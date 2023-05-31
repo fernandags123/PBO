@@ -1,6 +1,6 @@
 /**
  * File      : Lingkaran.java
- * Penulis   : Sulthan Firmansyah / 24060121140108
+ * Penulis   : Fernanda Galih Saputra / 24060121140176
  * Deskripsi : implementasi Lingkaran sebagai BangunDatar
  *
  */
