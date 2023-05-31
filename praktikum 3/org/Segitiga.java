@@ -1,6 +1,6 @@
 /**
- * File      : Segitiga.java		08/03/23
- * Penulis   : Sulthan Firmansyah
+ * File      : Segitiga.java		18/03/23
+ * Penulis   : Fernanda Galih Saputra
  * Deskripsi : Representasi dasar dari objek segitiga, turunan kelas poligon
  * 
  */
