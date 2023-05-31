@@ -1,6 +1,6 @@
 /**
  * File      : ArrayListTest.java
- * Penulis   : Sulthan Firmansyah / 24060121140108
+ * Penulis   : Fernanda Galih Saputra / 24060121140176
  * Deskripsi : program penggunaan objek ArrayList sebagai Collection class
  *
  */
