@@ -1,6 +1,6 @@
 /** 
 * File      : PegawaiDanGaji.java
-* Penulis   : Sulthan Firmansyah
+* Penulis   : Fernanda Galih Saputra
 * Deskripsi : Main class untuk nama dan gaji pegawai
 *
 */
