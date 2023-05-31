@@ -1,6 +1,6 @@
 /*
 	AngkaSialException.java  30/03/2023
-    Nama / NIM    : Sulthan Firmansyah / 24060121140108
+    Nama / NIM    : Fernanda Galih Saputra / 24060121140176
 	Deskripsi     : Eksepsi buatan sendiri, menolak masukan angka 13!
 */
 
