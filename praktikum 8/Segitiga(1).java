@@ -1,6 +1,6 @@
 /**
  * File      : Segitiga.java
- * Penulis   : Sulthan Firmansyah / 24060121140108
+ * Penulis   : Fernanda Galih Saputra / 2060121140176
  * Deskripsi : implementasi Segitiga sebagai BangunDatar
  *
  */
