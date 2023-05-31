@@ -1,6 +1,6 @@
 /** 
 * File      : Programmer.java
-* Penulis   : Sulthan Firmansyah
+* Penulis   : Fernanda Galih Saputra
 * Deskripsi : Kelas yang berupa metode untuk menghitung gaji programmer
 *
 */
