@@ -1,6 +1,6 @@
 /**
- * File : PersegiPanjang.java 08/03/2023
- * Penulis : Sulthan Firmansyah
+ * File : PersegiPanjang.java 18/03/2023
+ * Penulis : Fernanda Galih Saputra
  * Deskripsi : representasi dari objek persegi panjang, turunan kelas poligon
  */
  
