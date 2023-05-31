@@ -1,6 +1,6 @@
 /**
 * File		    : Lingkaran.java 26-03-2023
-* Nama / NIM	: Sulthan Firmansyah / 24060121140108
+* Nama / NIM	: Fernanda Galih Saputra / 24060121140176
 * Deskripsi	    : Kelas implementasi IArea berupa cara untuk menghitung luas lingkaran
 */
 
