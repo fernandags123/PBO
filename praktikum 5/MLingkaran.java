@@ -1,6 +1,6 @@
 /**
 * File		    : MLingkaran.java 26-03-2023
-* Nama / NIM	: Sulthan Firmansyah / 24060121140108
+* Nama / NIM	: Fernanda Galih Saputra / 240601211401176
 * Deskripsi	    : Implementasi untuk menghitung luas lingkaran
 */
 
